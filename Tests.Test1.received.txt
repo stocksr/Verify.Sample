@@ -1,0 +1,10 @@
+﻿{
+  Filters: [
+    {
+      StartDate: Date_1,
+      EndDate: Date_2
+    },
+    {},
+    {}
+  ]
+}
