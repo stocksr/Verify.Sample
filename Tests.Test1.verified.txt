@@ -1,0 +1,15 @@
+﻿{
+  Filters: [
+    {
+      $type: DateRangeFilter,
+      StartDate: Date_1,
+      EndDate: Date_2
+    },
+    {
+      $type: IsCompleteFilter
+    },
+    {
+      $type: IsSpamFilter
+    }
+  ]
+}
